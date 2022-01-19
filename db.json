@@ -1,1 +1,321 @@
-
+{
+    "items": [
+        {
+            "_id" : 4566846565321,
+            "name" : "Paprika orange",
+            "PLU" : 69,
+            "EAN" : 20069,
+            "weighable" : true,
+            "priceCent" : 199
+            },
+            {
+            "name" : "Zitrone",
+            "PLU" : 415,
+            "EAN" : 20415,
+            "weighable" : false, 
+            "priceCent" : 99
+            },
+            {
+            "name" : "Aubergine",
+            "PLU" : 90,
+            "EAN" : 20090,
+            "weighable" : true,
+            "priceCent" : 189 
+            },
+            {
+            "name" : "Zucchini",
+            "PLU" : 93,
+            "EAN" : 20093,
+            "weighable" : true,
+            "priceCent" : 139
+            },
+            {
+            "name" : "Paprika rot",
+            "PLU" : 66,
+            "EAN" : 20066,
+            "weighable" : true,
+            "priceCent" : 129
+            },
+            {
+            "name" : "Suesskartoffel",
+            "PLU" : 25,
+            "EAN" : 20025,
+            "weighable" : true,
+            "priceCent" : 219
+            },
+            {
+            "name" : "Erdbeeren",
+            "PLU" : 50,
+            "EAN" : 20050,
+            "weighable" : true,
+            "priceCent" : 249
+            },
+            {
+            "name" : "Orange",
+            "PLU" : 65,
+            "EAN" : 20065,
+            "weighable" : true,
+            "priceCent" : 119
+            },
+            {
+            "name" : "Kohlrabi",
+            "PLU" : 202,
+            "EAN" : 20202,
+            "weighable" : false,
+            "priceCent" : 99
+            },
+            {
+            "name" : "Sellerie - Stange",
+            "PLU" : 283,
+            "EAN" : 20283,
+            "weighable" : false,
+            "priceCent" : 119
+            },
+            {
+            "name" : "Sellerieknolle mit Gruen",
+            "PLU" : 282,
+            "EAN" : 20282,
+            "weighable" : false,
+            "priceCent" : 189
+            },
+            {
+            "name" : "Sellerieknolle",
+            "PLU" : 82,
+            "EAN" : 20082,
+            "weighable" : true,
+            "priceCent" : 99
+            },
+            {
+            "name" : "Broccoli",
+            "PLU" : 206,
+            "EAN" : 20206,
+            "weighable" : false,
+            "priceCent" : 139
+            },
+            {
+            "name" : "Blumenkohl",
+            "PLU" : 200,
+            "EAN" : 20200,
+            "weighable" : false,
+            "priceCent" : 129
+            },
+            {
+            "name" : "Moehren Bio",
+            "PLU" : 64,
+            "EAN" : 20064,
+            "weighable" : true,
+            "priceCent" : 249
+            },
+            {
+            "name" : "Strauchtomaten",
+            "PLU" : 97,
+            "EAN" : 20097,
+            "weighable" : true,
+            "priceCent" : 99
+            },
+            {
+            "name" : "Fleischtomaten",
+            "PLU" : 96,
+            "EAN" : 20096,
+            "weighable" : true,
+            "priceCent" : 129
+            },
+            {
+            "name" : "Rosatomaten",
+            "PLU" : 46,
+            "EAN" : 20046,
+            "weighable" : true,
+            "priceCent" : 149
+            },
+            {
+            "name" : "Bananen Standard",
+            "PLU" : 55,
+            "EAN" : 20055,
+            "weighable" : true,
+            "priceCent" : 99
+            },
+            {
+            "name" : "Bananen FairTrade",
+            "PLU" : 48,
+            "EAN" : 20048,
+            "weighable" : true,
+            "priceCent" : 129
+            },
+            {
+            "name" : "Bananen Bio",
+            "PLU" : 45,
+            "EAN" : 20045,
+            "weighable" : true, 
+            "priceCent" : 159
+            },
+            {
+            "name" : "Baby Bananen",
+            "PLU" : 13,
+            "EAN" : 20013,
+            "weighable" : true,
+            "priceCent" : 319
+            },
+            {
+            "name" : "Coca Cola Zucker",
+            "PLU" : null,
+            "EAN" : 3016,
+            "weighable" : false, 
+            "priceCent" : 159
+            },
+            {
+            "name" : "Coca Cola Zero / Fanta",
+            "PLU" : null,
+            "EAN" : 111150,
+            "weighable" : false,
+            "priceCent" : 159
+            },
+            {
+            "name" : "Pepsi Zucker",
+            "PLU" : null,
+            "EAN" : 36,
+            "weighable" : false, 
+            "priceCent" : 69
+            },
+            {
+            "name" : "Pepsi Max / 7UP",
+            "PLU" : null,
+            "EAN" : 59,
+            "weighable" : false, 
+            "priceCent" : 69
+            },
+            {
+            "name" : "Schwipp Schwapp",
+            "PLU" : null,
+            "EAN" : 38,
+            "weighable" : false, 
+            "priceCent" : 69
+            },
+            {
+            "name" : "MixxMaxx",
+            "PLU" : null,
+            "EAN" : 38,
+            "weighable" : false,
+            "priceCent" : 49
+            },
+            {
+            "name" : "Freeway Zitrone",
+            "PLU" : null,
+            "EAN" : 40,
+            "weighable" : false,
+            "priceCent" : 49
+            },
+            {
+            "name" : "Freeway Cola Zero",
+            "PLU" : null,
+            "EAN" : 24,
+            "weighable" : false,
+            "priceCent" : 49
+            },
+            {
+            "name" : "Eistee Zitrone",
+            "PLU" : null,
+            "EAN" : 26,
+            "weighable" : false,
+            "priceCent" : 59
+            },
+            {
+            "name" : "Eistee Pfirsich",
+            "PLU" : null,
+            "EAN" : 27,
+            "weighable" : false, 
+            "priceCent" : 59
+            },
+            {
+            "name" : "Wasser classic",
+            "PLU" : null,
+            "EAN" : 1,
+            "weighable" : false, 
+            "priceCent" : 19
+            },
+            {
+            "name" : "Wasser medium",
+            "PLU" : null,
+            "EAN" : 8,
+            "weighable" : false, 
+            "priceCent" : 19
+            },
+            {
+            "name" : "Wasser still",
+            "PLU" : null,
+            "EAN" : 2,
+            "weighable" : false, 
+            "priceCent" : 19
+            },
+            {
+            "name" : "Wasser classic klein",
+            "PLU" : 702,
+            "EAN" : 20702,
+            "weighable" : false,
+            "priceCent" : 15
+            },
+            {
+            "name" : "Wasser medium klein",
+            "PLU" : 701,
+            "EAN" : 20701,
+            "weighable" : false,
+            "priceCent" : 15
+            },
+            {
+            "name" : "Wasser still klein",
+            "PLU" : 926,
+            "EAN" : 20926,
+            "weighable" : false,
+            "priceCent" : 15
+            },
+            {
+            "name" : "MiWa Roehn",
+            "PLU" : null,
+            "EAN" : 166693,
+            "weighable" : false,
+            "priceCent" : 39
+            },
+            {
+            "name" : "Vittel",
+            "PLU" : null,
+            "EAN" : 5,
+            "weighable" : false, 
+            "priceCent" : 99
+            },
+            {
+            "name" : "Volvic",
+            "PLU" : null,
+            "EAN" : 47571,
+            "weighable" : false,
+            "priceCent" : 89
+            },
+            {
+            "name" : "Apfelschorle",
+            "PLU" : null,
+            "EAN" : 17,
+            "weighable" : false,
+            "priceCent" : 49
+            },
+            {
+            "name" : "Apfelschorle klein",
+            "PLU" : 712,
+            "EAN" : 20712,
+            "weighable" : false,
+            "priceCent" : null
+            },
+            {
+            "name" : "Wasser mit Geschack",
+            "PLU" : null,
+            "EAN" : 10,
+            "weighable" : false, 
+            "priceCent" : 39
+            },
+            {
+            "name" : "Wasser Sportverschluss",
+            "PLU" : null,
+            "EAN" : 35,
+            "weighable" : false, 
+            "priceCent" : 49
+            }
+            
+    ]
+}
